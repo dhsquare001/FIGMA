@@ -1,2 +1,2 @@
 # FIGMA
-design to code conversion projects
+basic design to code conversion project
